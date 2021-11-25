@@ -1,3 +1,13 @@
+# ram
+
+*** jaya ***
+
+![NTR](https://www.tollywood.net/wp-content/uploads/2021/09/Jr-NTR-character-to-exhibit-passive-aggression-NTR30.jpg)
+
+|s.no|name|rollno|
+|----|----|------|
+|1|sarath|A0|
+
 #order list
 1. good morning
  1. tea
@@ -6,7 +16,7 @@
  
  3. milk
 
-##unoderlist
+##unoderlist 
 -good afternoon
 * lunch
 
@@ -23,4 +33,4 @@
    c=7
 
    print(a+b+c)
-*** 
+ ***
